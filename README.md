@@ -18,7 +18,7 @@ Build with:
 
 ## App Url
 
-[Open The App](https://nada-storegg.vercel.app/)
+[Open The App](storegg-client-ebon.vercel.app)
 
 ## Getting Started
 
