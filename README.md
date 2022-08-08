@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Store GG Website
 
-Website for topup game using backend api from [Store GG Backend Server](https://github.com/nadahasnim/bwa-storegg-server)
+Website for topup game using backend api from [Store GG Backend Server](https://github.com/marcelino230/storegg-server)
 
 
 
